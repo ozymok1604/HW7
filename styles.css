@@ -1,0 +1,15 @@
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    width: 500px;
+    height: 400px;
+    align-content:center;
+  }
+
+.square{
+      height: 70px;
+      width: 70px;
+      border:1px ;
+      background-color: blue;
+  }
